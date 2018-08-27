@@ -8,6 +8,8 @@ this is base thrift demo
 
 0.11.0 thrift has same error
 
+- see [https://issues.apache.org/jira/browse/THRIFT-4447?jql=text%20~%20%22thrift.TClient%22](https://issues.apache.org/jira/browse/THRIFT-4447?jql=text%20~%20%22thrift.TClient%22)
+
 # run
 
 ```sh
