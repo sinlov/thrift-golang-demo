@@ -43,7 +43,7 @@ then add PATH
 ## golang thrift depends
 
 ```sh
-﻿go get -v git.apache.org/thrift.git/lib/go/thrift/...
+go get -v git.apache.org/thrift.git/lib/go/thrift/...
 ```
 
 > this is use thrift golang must have
